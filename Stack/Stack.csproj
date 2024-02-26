@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="_1021.cs" />
-    <Compile Include="_20.cs" />
+    <Compile Include="RemoveOutermostParentheses-1021.cs" />
+    <Compile Include="Valid Parentheses-20.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

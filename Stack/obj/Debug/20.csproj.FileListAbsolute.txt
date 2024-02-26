@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\obj\Debug\20.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\obj\Debug\20.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\pc\Desktop\programiranje\Leetcode\Stack\Stack\obj\Debug\Stack.pdb

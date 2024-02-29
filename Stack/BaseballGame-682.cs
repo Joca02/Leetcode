@@ -8,10 +8,10 @@ namespace Stack
 {
     internal class BaseballGame_682
     {
-        public static void Main()
+       /* public static void Main()
         {
             CalPoints(new string[] { "5", "2", "C", "D", "+" });
-        }
+        }*/
 
 
 

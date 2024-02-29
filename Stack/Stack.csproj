@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseballGame-682.cs" />
+    <Compile Include="CrawlerLogFolder-1598.cs" />
     <Compile Include="RemoveOutermostParentheses-1021.cs" />
     <Compile Include="Valid Parentheses-20.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

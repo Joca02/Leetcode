@@ -8,7 +8,7 @@ namespace Stack
 {
     internal class _1021
     {
-      /*  public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             Console.WriteLine(RemoveOuterParentheses("(()())(())(()(()))"));
         }*/

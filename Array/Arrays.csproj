@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3629C2BD-C3F7-440A-898D-56AEF793BE5E}</ProjectGuid>
+    <ProjectGuid>{FDEAD4E5-6BBF-4B49-AC46-3426F7E2C6C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Stack</RootNamespace>
-    <AssemblyName>Stack</AssemblyName>
+    <RootNamespace>Array</RootNamespace>
+    <AssemblyName>Array</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseballGame-682.cs" />
-    <Compile Include="CrawlerLogFolder-1598.cs" />
-    <Compile Include="MyQueue-232.cs" />
-    <Compile Include="RemoveOutermostParentheses-1021.cs" />
-    <Compile Include="Valid Parentheses-20.cs" />
+    <Compile Include="FindDuplicateNum-287.cs" />
+    <Compile Include="TwoSum-1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

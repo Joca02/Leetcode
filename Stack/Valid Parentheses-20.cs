@@ -9,10 +9,10 @@ namespace Stack
 {
     internal class _20
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine( isValid("({}[[]])"));
-        }*/
+        }
 
 
         static public bool isValid(string s)

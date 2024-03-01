@@ -8,18 +8,21 @@ namespace Stack
 {
     internal class CrawlerLogFolder_1598
     {
-        public static void Main()
+       /* public static void Main()
         {
             Console.WriteLine(MinOperations(new string[]{ "./", "../", "./" }  ));
-        }
+        }*/
         public static int MinOperations(string[] logs)
         {
             Stack<string> stack = new Stack<string>();
-            foreach (string log in logs)
+            foreach (var log in logs)
             {
-                if(log=="../" && stack.Count > 0) stack.Pop();
-                else if(log=="./")continue; 
-                else stack.Push(log);
+                if (log=="../")
+                {
+                    if (stack.Count>0) stack.Pop();
+                }
+                else if (log!="./") stack.Push(log); 
+               
             }
             return stack.Count;
         }

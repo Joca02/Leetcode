@@ -15,13 +15,8 @@ namespace Arrays
 
         public static int FindDuplicate(int[] nums)
         {
-            //return nums.GroupBy(num => num).Where(group => group.Count()>1).Select(group => group.Key).First();
-            Array.Sort(nums);
-            for(int i = 1; i < nums.Length; i++)
-            {
-                if (nums[i] == nums[i-1])return nums[i];
-            }
-            return -1;
+            return nums.GroupBy(num => num).Where(group => group.Count()>1).Select(group => group.Key).First();
+            
         }
     }
 }

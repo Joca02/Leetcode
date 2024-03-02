@@ -8,10 +8,10 @@ namespace Arrays
 {
     internal class FindDuplicateNum_287
     {
-        static void Main()
+       /* static void Main()
         {
             Console.WriteLine(FindDuplicate(new int[] {1,2,34,7,1,3}));
-        }
+        }*/
 
         public static int FindDuplicate(int[] nums)
         {

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FindDuplicateNum-287.cs" />
+    <Compile Include="RemoveDuplicates-26.cs" />
     <Compile Include="TwoSum-1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -9,7 +9,7 @@ namespace Arrays
     internal class MergeSortedArr_88
     {
 
-        static void Main()
+       /* static void Main()
         {
             int[] n1 = new int[] { 0};
             Merge(n1, , new int[] {  }, 0);
@@ -17,7 +17,7 @@ namespace Arrays
             {
                 Console.WriteLine(i);
             }
-        }
+        }*/
         public static void Merge(int[] nums1, int m, int[] nums2, int n)
         {
             int counter = 0;

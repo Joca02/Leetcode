@@ -21,6 +21,7 @@ namespace Array
                 if(profit > maxProfit)
                     maxProfit = profit;    
             }
+
             return maxProfit;
         }
     }

@@ -9,10 +9,10 @@ namespace Arrays
 {
     internal class PascalsTriangle_118
     {
-        static void Main()
+        /*static void Main()
         {
             Generate(4);
-        }
+        }*/
         static public IList<IList<int>> Generate(int numRows)
         {
             List<IList<int>>list = new List<IList<int>>();

@@ -49,6 +49,7 @@
     <Compile Include="PascalsTriangle-118.cs" />
     <Compile Include="PlusOne-66.cs" />
     <Compile Include="RemoveDuplicates-26.cs" />
+    <Compile Include="SingleNumber-136.cs" />
     <Compile Include="TwoSum-1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

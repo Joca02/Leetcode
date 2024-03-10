@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BuySellStock-121.cs" />
     <Compile Include="FindDuplicateNum-287.cs" />
+    <Compile Include="JumpGame-55.cs" />
     <Compile Include="MergeSortedArr-88.cs" />
     <Compile Include="PascalsTriangle-118.cs" />
     <Compile Include="PlusOne-66.cs" />

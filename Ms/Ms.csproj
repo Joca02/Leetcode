@@ -48,6 +48,7 @@
     <Compile Include="NUniqueIntsSumUpToZero-1304.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveDuplicatesFromSortedList-83.cs" />
     <Compile Include="SignOfTheProductOfAnArray-1822.cs" />
     <Compile Include="ThreeSum-15.cs" />
   </ItemGroup>

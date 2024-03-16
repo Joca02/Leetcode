@@ -11,8 +11,14 @@ namespace Ms
     {
         static void Main(string[] args)
         {
-            ThreeSum_15 a= new ThreeSum_15();
-            a.ThreeSum(new int[] { -2,0,1,1,2 });
+            RemoveDuplicatesFromSortedList_83 a=new RemoveDuplicatesFromSortedList_83();
+            RemoveDuplicatesFromSortedList_83.ListNode w=new RemoveDuplicatesFromSortedList_83.ListNode(1);
+            RemoveDuplicatesFromSortedList_83.ListNode list =w;
+            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(1);
+            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(2);
+            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(3);
+            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(3);
+            a.DeleteDuplicates(list);
            
         }
     }

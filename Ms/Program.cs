@@ -11,14 +11,21 @@ namespace Ms
     {
         static void Main(string[] args)
         {
-            RemoveDuplicatesFromSortedList_83 a=new RemoveDuplicatesFromSortedList_83();
-            RemoveDuplicatesFromSortedList_83.ListNode w=new RemoveDuplicatesFromSortedList_83.ListNode(1);
-            RemoveDuplicatesFromSortedList_83.ListNode list =w;
-            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(1);
-            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(2);
-            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(3);
-            w=w.next=new RemoveDuplicatesFromSortedList_83.ListNode(3);
-            a.DeleteDuplicates(list);
+           
+
+            MergeSortedLists_21 a=new MergeSortedLists_21();
+            MergeSortedLists_21.ListNode w=new MergeSortedLists_21.ListNode();
+            MergeSortedLists_21.ListNode list = w;
+            /*w=w.next=new MergeSortedLists_21.ListNode(1);
+            w=w.next=new MergeSortedLists_21.ListNode(2);
+            w=w.next=new MergeSortedLists_21.ListNode(4);*/
+
+            MergeSortedLists_21.ListNode s = new MergeSortedLists_21.ListNode(0);
+            MergeSortedLists_21.ListNode list2 = s;
+            /*s=s.next=new MergeSortedLists_21.ListNode(1);
+           s=s.next=new MergeSortedLists_21.ListNode(3);
+            s = s.next = new MergeSortedLists_21.ListNode(4);*/
+            a.MergeTwoLists(list,list2);
            
         }
     }

@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AddTwoNums-2.cs" />
     <Compile Include="DivideTwoInts-29.cs" />
+    <Compile Include="MergeSortedLists-21.cs" />
     <Compile Include="NUniqueIntsSumUpToZero-1304.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

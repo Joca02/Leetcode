@@ -45,13 +45,16 @@
   <ItemGroup>
     <Compile Include="AddTwoNums-2.cs" />
     <Compile Include="DivideTwoInts-29.cs" />
+    <Compile Include="LongestSubstringWOutRepeatingChars-3.cs" />
     <Compile Include="MergeSortedLists-21.cs" />
     <Compile Include="NUniqueIntsSumUpToZero-1304.cs" />
+    <Compile Include="PowerOfTwo-231.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesFromSortedList-83.cs" />
     <Compile Include="SignOfTheProductOfAnArray-1822.cs" />
     <Compile Include="ThreeSum-15.cs" />
+    <Compile Include="ZigZagConversion-6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
